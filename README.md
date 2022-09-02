@@ -1,5 +1,7 @@
 Following tutorial from Youtube by Benjamin Carlson.
+
 Original Github Link : https://github.com/bjcarlson42/chakra-nextjs-dashboard
+
 Original Youtube Video Tutorial : https://youtu.be/Ci-pwArI3so
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
