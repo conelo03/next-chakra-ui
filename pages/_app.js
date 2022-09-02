@@ -1,5 +1,6 @@
 
 import { ThemeProvider, theme, CSSReset } from '@chakra-ui/react';
+import '../styles/globals.css'
 
 const customTheme = {
   ...theme,
